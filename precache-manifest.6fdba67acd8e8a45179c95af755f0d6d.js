@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c76011d923f6743b76433b2ee51e366d",
+    "revision": "6d58bc119ce6d07a3b4ca0d6d72bb8c1",
     "url": "/tryTuka/index.html"
   },
   {
-    "revision": "3748df6e0cbce6019f04",
+    "revision": "be6c2b247b55fe39c62c",
     "url": "/tryTuka/static/css/2.fe066219.chunk.css"
   },
   {
-    "revision": "854c545276f9402911ae",
+    "revision": "c6f9b864da88921b8650",
     "url": "/tryTuka/static/css/main.3685bd09.chunk.css"
   },
   {
-    "revision": "3748df6e0cbce6019f04",
-    "url": "/tryTuka/static/js/2.6e6b174f.chunk.js"
+    "revision": "be6c2b247b55fe39c62c",
+    "url": "/tryTuka/static/js/2.ec2bbbb0.chunk.js"
   },
   {
-    "revision": "854c545276f9402911ae",
-    "url": "/tryTuka/static/js/main.f7d56b7b.chunk.js"
+    "revision": "c6f9b864da88921b8650",
+    "url": "/tryTuka/static/js/main.e99a3011.chunk.js"
   },
   {
     "revision": "6c94cd80472c0e7145ea",

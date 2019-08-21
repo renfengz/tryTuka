@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tryTuka/precache-manifest.70040030d86e900b2a16c26b216621ca.js"
+  "/tryTuka/precache-manifest.6fdba67acd8e8a45179c95af755f0d6d.js"
 );
 
 self.addEventListener('message', (event) => {
